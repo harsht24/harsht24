@@ -9,5 +9,5 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 👯 I wish to collaborate on written content and building communities.
 🤔 I’m constantly looking for opportunities in Software Development and Data Science.
 💬 Ask me about data science, learning, and career.
-📫 How to reach me: himanshu.suman1010@gmail.com, @MarvellousCR7.
-⚡ My recommended repo : Weather Analysis
+📫 How to reach me: htamkiya24@gmail.com
+
