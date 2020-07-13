@@ -4,7 +4,7 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 
 * 🔭 I’m currently working on GANs (Generative Adversarial Networks).
 * 🌱 I’m currently learning more enhanced NLP techniques and building several projects.
-* 🎩 I love to spend time on Kaggle. Here's my kaggle profile. https://www.kaggle.com/htamkiya24
+* 🎩 I love to spend time on Kaggle. Here's my <a href='https://www.kaggle.com/htamkiya24'>Kaggle Profile</a>. 
 * 👯 I wish to collaborate on written content and building communities.
 * 🤔 I’m constantly looking for opportunities in Software Development and Data Science.
 * 💬 Ask me about data science, learning, and career.
