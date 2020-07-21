@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharsht24%2Fhit-counter)](https://hits.seeyoufarm.com)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fharsht24%2Fhit-counter)
 
 I am a final year student, studying Computer Science from Indore. I am a Data Science enthusiast and building projects using the latest machine learning techniques. I have published a <a href='http://www.jetir.org/view?paper=JETIR2006237'>Research Paper</a> describing the latest machine learning approaches to improve the recruitment process. Also, I frequently participate in hackathons.
 
