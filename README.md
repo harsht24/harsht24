@@ -7,7 +7,7 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 * 🎩 I love to spend time on Kaggle. Here's my <a href='https://www.kaggle.com/htamkiya24'>Kaggle Profile</a>. 
 * 👯 I wish to collaborate on written content and building communities.
 * 🤔 I’m constantly looking for opportunities in Software Development and Data Science.
-* 💬 Ask me about Data Science, Python, and Career.
+* 💬 Ask me about Data Science, Python, Competitive coding and Career.
 * 📫 How to reach me: htamkiya24@gmail.com
 * 📰 Connect me on <a href='https://www.linkedin.com/in/harsh-tamkiya/'>Linkedin</a>.
 
