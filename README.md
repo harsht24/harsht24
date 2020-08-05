@@ -13,6 +13,7 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 
 
 
-<img align="left" alt="harsht24's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harsht24&show_icons=true&hide_border=true" />
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsht24&theme=algolia&show_icons=true)
+
 
 
