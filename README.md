@@ -10,12 +10,6 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 * 💬 Ask me about Data Science, Python, Competitive coding and Career.
 * 📫 How to reach me: htamkiya24@gmail.com
 * 📰 Connect me on <a href='https://www.linkedin.com/in/harsh-tamkiya/'>Linkedin</a>.
-### Connect with me:
-
-[<img align="left" alt="harsht24.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://twitter.com/HarshTamkiya1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/harsh-tamkiya/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 ### Contributions : 
 
@@ -28,6 +22,15 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 
 ##
 
+### Connect with me:
+
+<a href='harsht24.github.io'>[<img align="left" alt="harsht24.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]</a>
+<a href='#'>
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+</a>
+<a href='#'>
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ </a>
 
 
 
