@@ -24,7 +24,7 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 
 ### Languages I mostly work with :  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsht24&layout=compact&hide=Tcl)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsht24&layout=compact&hide=Tcl)
 
 
 
