@@ -24,7 +24,7 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 
 ### Connect with me:
 
-<a href='harsht24.github.io'><img align="left" alt="harsht24.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href='https://harsht24.github.io/'><img align="left" alt="harsht24.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href='https://twitter.com/HarshTamkiya1'><img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href='#\https://www.linkedin.com/in/harsh-tamkiya/'><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 
