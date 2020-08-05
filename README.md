@@ -12,4 +12,5 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 * 📰 Connect me on <a href='https://www.linkedin.com/in/harsh-tamkiya/'>Linkedin</a>.
 
 
-<img align="left" alt="harsht24's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harsht24&show_icons=true&hide_border=true" />
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsht24&show_icons=true&theme=great-gatsby)
+
