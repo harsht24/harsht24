@@ -9,7 +9,14 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 * 🤔 I’m constantly looking for opportunities in Software Development and Data Science.
 * 💬 Ask me about Data Science, Python, Competitive coding and Career.
 * 📫 How to reach me: htamkiya24@gmail.com
-* 📰 Connect me on <a href='https://www.linkedin.com/in/harsh-tamkiya/'>Linkedin</a>.
+### Connect with me:
+
+<a href='https://harsht24.github.io/'><img align="left" alt="harsht24.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href='https://twitter.com/HarshTamkiya1'><img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href='#\https://www.linkedin.com/in/harsh-tamkiya/'><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href='https://www.instagram.com/10tamkiya_harsh/?igshid=z3j7ewhe1liq'><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+</br>
 
 ### Contributions : 
 
@@ -19,15 +26,6 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 ### Languages I mostly work with :  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsht24&layout=compact&hide=Tcl)](https://github.com/anuraghazra/github-readme-stats)
-
-##
-
-### Connect with me:
-
-<a href='https://harsht24.github.io/'><img align="left" alt="harsht24.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-<a href='https://twitter.com/HarshTamkiya1'><img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href='#\https://www.linkedin.com/in/harsh-tamkiya/'><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-
 
 
 
