@@ -2,7 +2,7 @@
 
 I am a final year student, studying Computer Science from Indore. I am a Data Science enthusiast and building projects using the latest machine learning techniques. I have published a <a href='http://www.jetir.org/view?paper=JETIR2006237'>Research Paper</a> describing the latest machine learning approaches to improve the recruitment process. Also, I frequently participate in hackathons.
 
-* 🔭 I’m currently working on my Competitive programming skills.
+* 🔭 I’m currently working on <a href='https://github.com/harsht24/Placement-Series-in-Java'>Data Structures and Algorithms</a>.
 * 🎩 I love to spend time on <a href='https://leetcode.com/harsht24/'>Leetcode</a>.
 * 👯 I wish to collaborate on written content and building communities.
 * 🤔 I’m constantly looking for opportunities in Software Development and Data Science.
