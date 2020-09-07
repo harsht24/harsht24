@@ -22,9 +22,6 @@ I am a final year student, studying Computer Science from Indore. I am a Data Sc
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsht24&theme=algolia&hide=stars,issues)
 
 
-### Languages I mostly work with :  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsht24&layout=compact&hide=Tcl)
 
 
 
