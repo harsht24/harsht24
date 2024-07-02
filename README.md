@@ -2,11 +2,9 @@
 
 I am a graduate student at the University of Nebraska-Lincoln. I have published a <a href='http://www.jetir.org/view?paper=JETIR2006237'>Research Paper</a> describing the latest machine learning approaches to improve the recruitment process. Also, I frequently participate in hackathons.
 
-* 🔭 I’m currently working on <a href='https://github.com/harsht24/Placement-Series-in-Java'>Data Structures and Algorithms</a>.
 * 🎩 I love to spend time on <a href='https://leetcode.com/harsht24/'>Leetcode</a>.
 * 👯 I wish to collaborate on written content and building communities.
-* 🤔 I’m constantly looking for opportunities in Software Development and Data Science.
-* 💬 Ask me about Data Science, Python, Competitive coding and Career.
+* 🤔 I’m constantly looking for Software Development and AI/ML opportunities.
 * 📫 How to reach me: htamkiya24@gmail.com
 ### Connect with me:
 
