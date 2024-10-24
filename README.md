@@ -15,10 +15,6 @@ I am a graduate student at the University of Nebraska-Lincoln. I have published 
 
 </br>
 
-### Contributions : 
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harsht24&theme=algolia&hide=stars,issues)
-
 
 
 
